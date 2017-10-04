@@ -1,14 +1,14 @@
 Workouts Docs
 =============
 
-CONTENTS
+Contents
 --------
 
 - [Routes](#routes)
 - [API](#api)
 
 
-ROUTES
+Routes
 ------
 
 ```
