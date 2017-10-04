@@ -1,11 +1,12 @@
 Workouts Docs
 =============
 
-ROUTES
+1. ROUTES
 ------
 
 ```
 /
+
 /workouts
 /workouts/:id
 /workouts/:id/edit
@@ -22,7 +23,7 @@ ROUTES
 ```
 
 
-API
+2. API
 ---
 
 **Exercises**
