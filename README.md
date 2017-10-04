@@ -40,5 +40,16 @@ A routine is a collection of `Exercises` that are performed sequentially.
  "id": 1,
  "title": "Hangboard Workout #1",
  "description": "",
+ "agenda": [
+  { 
+   "title": "7-second Hangs",
+   "difficulty": "Jug",
+   "complete": false
+  },{
+    "title": "7-second Hangs",
+    "difficulty": "Inside VDR"
+    "complete": false
+  }
+ ]
 }
 ```
