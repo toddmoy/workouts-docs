@@ -1,7 +1,7 @@
 Workouts Docs
 =============
 
-1. ROUTES
+1 ROUTES
 ------
 
 ```
@@ -23,7 +23,7 @@ Workouts Docs
 ```
 
 
-2. API
+2 API
 ---
 
 **Exercises**
