@@ -47,7 +47,7 @@ A routine is a collection of `Exercises` that are performed sequentially.
    "complete": false
   },{
     "title": "7-second Hangs",
-    "difficulty": "Inside VDR"
+    "difficulty": "Inside VDR",
     "complete": false
   }
  ]
