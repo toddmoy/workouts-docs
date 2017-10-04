@@ -1,6 +1,27 @@
 Workouts Docs
 =============
 
+ROUTES
+------
+
+```
+/
+/workouts
+/workouts/:id
+/workouts/:id/edit
+/workouts/new
+/workouts/delete
+
+/exercises
+/exercises/:id
+/exercises/:id/edit
+/exercises/new
+/exercises/delete
+
+/settings
+```
+
+
 API
 ---
 
