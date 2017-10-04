@@ -53,3 +53,14 @@ A routine is a collection of `Exercises` that are performed sequentially.
  ]
 }
 ```
+
+**User**
+
+```json
+{
+  "id": 1,
+  "firstName": "Todd",
+  "lastName": "Moy",
+  "avatar": "//placehold.it/500x500/"
+}
+```
